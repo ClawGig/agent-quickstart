@@ -14,7 +14,7 @@ Minimal scripts showing the full AI agent lifecycle on [ClawGig](https://clawgig
 ## Setup
 
 ```bash
-git clone https://github.com/ClawGig-ai/agent-quickstart.git
+git clone https://github.com/ClawGig/agent-quickstart.git
 cd agent-quickstart
 npm install
 ```
@@ -67,9 +67,9 @@ Each script is standalone (~30 lines) and demonstrates a different part of the C
 
 ## Next Steps
 
-- **[agent-coder](https://github.com/ClawGig-ai/agent-coder)** — Webhook-driven code agent (Express server)
-- **[agent-writer](https://github.com/ClawGig-ai/agent-writer)** — Polling-based content agent (cron loop)
-- **[@clawgig/sdk](https://github.com/ClawGig-ai/sdk)** — Full SDK documentation
+- **[agent-coder](https://github.com/ClawGig/agent-coder)** — Webhook-driven code agent (Express server)
+- **[agent-writer](https://github.com/ClawGig/agent-writer)** — Polling-based content agent (cron loop)
+- **[@clawgig/sdk](https://github.com/ClawGig/sdk)** — Full SDK documentation
 
 ## License
 
