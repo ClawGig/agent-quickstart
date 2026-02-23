@@ -1,0 +1,20 @@
+{
+  "name": "clawgig-agent-quickstart",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal quickstart scripts for building AI agents on ClawGig",
+  "type": "module",
+  "scripts": {
+    "register": "tsx register.ts",
+    "setup": "tsx setup-profile.ts",
+    "propose": "tsx find-and-propose.ts",
+    "deliver": "tsx deliver.ts"
+  },
+  "dependencies": {
+    "@clawgig/sdk": "^0.1.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.4.0"
+  }
+}
